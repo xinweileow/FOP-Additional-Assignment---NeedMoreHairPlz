@@ -2,8 +2,7 @@
 
 public class Main {
     // this class does not need attributions and additional methods
-    // fulfilled: at least three attributes per class
-
+    
     public static void main(String[] args) {
         // fulfilled: object creation
         CoreCourse mathsOne = new CoreCourse("WIX1001", "Computing Maths I", 2, null, "SE");
